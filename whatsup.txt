@@ -5,3 +5,5 @@
 3. last seen code
 
 4. attachents(audio,video,image)
+
+Hiding the last seen
