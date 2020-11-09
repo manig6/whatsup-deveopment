@@ -5,5 +5,6 @@
 3. last seen code
 
 4. attachents(audio,video,image)
+5. go and sleep
 
 Hiding the last seen
