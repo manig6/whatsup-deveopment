@@ -8,3 +8,5 @@
 5. go and sleep
 
 Hiding the last seen
+
+Search and share location
